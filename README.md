@@ -16,7 +16,8 @@
   <samp>
     <a href="https://github.com/mysteryon88/export-ton-verifier">export-ton-verifier</a> .
     <a href="https://github.com/mysteryon88/ark-snarkjs">arkworks → snarkjs</a> .
-    <a href="https://github.com/mysteryon88/gnark-to-snarkjs">gnark → snarkjs</a>
+    <a href="https://github.com/mysteryon88/gnark-to-snarkjs">gnark → snarkjs</a> .
+    <a href="https://github.com/mysteryon88/soroban-verifier-gen">soroban-verifier-gen</a>
   </samp>
 </p>
 
