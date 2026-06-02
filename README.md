@@ -24,7 +24,9 @@
 <p align="center">
   <samp>
     <a href="https://github.com/mysteryon88/export-ton-verifier">export-ton-verifier</a> .
-    <a href="https://github.com/mysteryon88/soroban-verifier-gen">soroban-verifier-gen</a>
+    <a href="https://github.com/mysteryon88/soroban-verifier-gen">soroban-verifier-gen</a> .
+    <a href="https://github.com/mysteryon88/export-aptos-verifier">export-aptos-verifier</a>
+    
   </samp>
 </p>
 
